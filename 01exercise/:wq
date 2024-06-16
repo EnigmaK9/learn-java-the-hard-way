@@ -1,0 +1,21 @@
+wq!
+w!
+WQ
+call CambiarIndentacion(2)
+qa
+split wq
+Wq
+echo exists(':VimAI')
+echo exists(':VimAI')
+Q
+PlugInstall
+PlugStatus
+W
+w
+AISuggest
+q!
+AIComplete
+Q!
+q
+wq
+
