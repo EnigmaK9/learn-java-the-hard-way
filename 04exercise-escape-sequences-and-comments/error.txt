@@ -1,0 +1,4 @@
+EscapeSequencesComments.java:1: error: class EscapeSecuencesComments is public, should be declared in a file named EscapeSecuencesComments.java
+public class EscapeSecuencesComments {
+       ^
+1 error
